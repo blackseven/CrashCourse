@@ -58,11 +58,11 @@ namespace CrashCourse
             //   appId: "",
             //   appSecret: "");
 
-            //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
-            //{
-            //    ClientId = "",
-            //    ClientSecret = ""
-            //});
+            app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
+            {
+                ClientId = "278992415236-joou57mc47g9mn1gh3hr8lqorcha8bkb.apps.googleusercontent.com",
+                ClientSecret = "_fsjoFNoLl6IL6eveLYJ-1p7"
+            });
         }
     }
 }

@@ -29,5 +29,7 @@ namespace CrashCourse.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<CrashCourse.Models.Contact> Contacts { get; set; }
     }
 }
