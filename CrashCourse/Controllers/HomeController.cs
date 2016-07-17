@@ -9,6 +9,7 @@ namespace CrashCourse.Controllers
     [RequireHttps]
     public class HomeController : Controller
     {
+        [AllowAnonymous]
         public ActionResult Index()
         {
             return View();
