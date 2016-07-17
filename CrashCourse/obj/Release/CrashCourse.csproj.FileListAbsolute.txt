@@ -66,3 +66,5 @@ F:\Git\CrashCourse\CrashCourse\bin\Microsoft.Owin.Security.Twitter.xml
 F:\Git\CrashCourse\CrashCourse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 F:\Git\CrashCourse\CrashCourse\obj\Release\CrashCourse.dll
 F:\Git\CrashCourse\CrashCourse\obj\Release\CrashCourse.pdb
+F:\Git\CrashCourse\CrashCourse\obj\Release\CrashCourse.Migrations.Initial.resources
+F:\Git\CrashCourse\CrashCourse\obj\Release\CrashCourse.csproj.GenerateResource.Cache
